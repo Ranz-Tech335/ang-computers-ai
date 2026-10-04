@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AnG Computers AI Assistant</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="app">
+    <header>
+        <div class="logo">AnG</div>
+        <div>
+            <h1>AnG Computers</h1>
+            <p>AI Laptop Sales Assistant</p>
+        </div>
+    </header>
+
+    <main id="chat">
+        <div class="message bot">
+            Hello 👋 Welcome to AnG Computers!<br><br>
+            I'm your laptop assistant. Tell me your budget,
+            preferred brand, specifications, or what you need the laptop for.
+        </div>
+    </main>
+
+    <div class="suggestions">
+        <button onclick="quick('I need a laptop for programming')">Programming</button>
+        <button onclick="quick('Show me HP laptops')">HP</button>
+        <button onclick="quick('Show me Dell laptops')">Dell</button>
+        <button onclick="quick('I have 1 million')">Budget</button>
+    </div>
+
+    <form id="form">
+        <input id="input" placeholder="Ask about a laptop..." autocomplete="off">
+        <button>➤</button>
+    </form>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

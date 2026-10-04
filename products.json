@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Dell Latitude 7270",
+    "brand": "Dell",
+    "price": 850000,
+    "cpu": "Intel Core i5",
+    "ram": "8GB RAM",
+    "storage": "256GB SSD",
+    "category": "business laptop",
+    "purpose": "business student office programming",
+    "stock": 5
+  },
+  {
+    "name": "HP ProBook 650 G6",
+    "brand": "HP",
+    "price": 1600000,
+    "cpu": "Intel Core i5",
+    "ram": "16GB RAM",
+    "storage": "512GB SSD",
+    "category": "business laptop",
+    "purpose": "business programming office",
+    "stock": 3
+  },
+  {
+    "name": "Lenovo ThinkPad E14",
+    "brand": "Lenovo",
+    "price": 1400000,
+    "cpu": "Intel Core i5",
+    "ram": "8GB RAM",
+    "storage": "512GB SSD",
+    "category": "business laptop",
+    "purpose": "business programming student office",
+    "stock": 4
+  },
+  {
+    "name": "HP Folio 9480m",
+    "brand": "HP",
+    "price": 700000,
+    "cpu": "Intel Core i5",
+    "ram": "8GB RAM",
+    "storage": "256GB SSD",
+    "category": "business laptop",
+    "purpose": "student business office",
+    "stock": 6
+  },
+  {
+    "name": "Dell Latitude 3160",
+    "brand": "Dell",
+    "price": 580000,
+    "cpu": "Intel Celeron",
+    "ram": "4GB RAM",
+    "storage": "128GB SSD",
+    "category": "student laptop",
+    "purpose": "student school office",
+    "stock": 4
+  }
+]

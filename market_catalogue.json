@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Dell Latitude 5400",
+    "brand": "Dell",
+    "price_ugx": 799000,
+    "cpu": "Intel Core i5 8th Gen",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Dell Latitude 7390",
+    "brand": "Dell",
+    "price_ugx": 799000,
+    "cpu": "Intel Core i7 8th Gen",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Dell Latitude E5480",
+    "brand": "Dell",
+    "price_ugx": 649000,
+    "cpu": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Dell Latitude 3340",
+    "brand": "Dell",
+    "price_ugx": 524000,
+    "cpu": "Intel Core i3",
+    "ram": "12GB",
+    "storage": "500GB HDD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Dell Latitude 3350",
+    "brand": "Dell",
+    "price_ugx": 568000,
+    "cpu": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "500GB HDD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Dell Latitude 3189/3190",
+    "brand": "Dell",
+    "price_ugx": 499900,
+    "cpu": "Intel",
+    "ram": "4GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "HP ProBook 640",
+    "brand": "HP",
+    "price_ugx": 554000,
+    "cpu": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "500GB HDD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "HP ProBook 640",
+    "brand": "HP",
+    "price_ugx": 616000,
+    "cpu": "Intel Core i5",
+    "ram": "16GB",
+    "storage": "500GB HDD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "HP EliteBook 840 G5",
+    "brand": "HP",
+    "price_ugx": 939000,
+    "cpu": "Intel Core i5 8th Gen",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Renewed",
+    "source": "Jumia"
+  },
+  {
+    "name": "HP EliteBook 840",
+    "brand": "HP",
+    "price_ugx": 609000,
+    "cpu": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "500GB HDD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "HP EliteBook 830 G6",
+    "brand": "HP",
+    "price_ugx": 1400000,
+    "cpu": "Intel Core i5 8th Gen",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "HP ProBook X360 11",
+    "brand": "HP",
+    "price_ugx": 436000,
+    "cpu": "Intel",
+    "ram": "4GB",
+    "storage": "128GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Lenovo ThinkPad X270/X260",
+    "brand": "Lenovo",
+    "price_ugx": 739000,
+    "cpu": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Lenovo ThinkPad X280",
+    "brand": "Lenovo",
+    "price_ugx": 779500,
+    "cpu": "Intel Core i5 8th Gen",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Lenovo ThinkPad X390",
+    "brand": "Lenovo",
+    "price_ugx": 759000,
+    "cpu": "Intel Core i5 8th Gen",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Lenovo ThinkPad T480s",
+    "brand": "Lenovo",
+    "price_ugx": 779500,
+    "cpu": "Intel Core i5 8th Gen",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Lenovo ThinkPad T470s",
+    "brand": "Lenovo",
+    "price_ugx": 770000,
+    "cpu": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jiji"
+  },
+  {
+    "name": "Lenovo ThinkPad T14",
+    "brand": "Lenovo",
+    "price_ugx": 1390000,
+    "cpu": "Intel Core i5",
+    "ram": "8GB",
+    "storage": "256GB SSD",
+    "condition": "Refurbished",
+    "source": "Jiji"
+  },
+  {
+    "name": "Acer TravelMate",
+    "brand": "Acer",
+    "price_ugx": 345000,
+    "cpu": "Intel",
+    "ram": "4GB",
+    "storage": "128GB SSD",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "Lenovo 100e",
+    "brand": "Lenovo",
+    "price_ugx": 339990,
+    "cpu": "Intel",
+    "ram": "4GB",
+    "storage": "128GB SSD/eMMC",
+    "condition": "Refurbished",
+    "source": "Jumia"
+  },
+  {
+    "name": "HP ProBook 11 G4/G5",
+    "brand": "HP",
+    "price_ugx": 350000,
+    "cpu": "Intel Celeron",
+    "ram": "4GB",
+    "storage": "64GB SSD",
+    "condition": "Renewed",
+    "source": "Jumia"
+  }
+]
